@@ -3,7 +3,7 @@ import { connect } from "react-redux"
 import Header from './Header';
 
 import { getAuthStatus, logOut} from "../../Redux/AuthReducer"
-//2q3
+//2q31212
 class HeaderContainer extends React.Component {
   constructor(props) {
     super(props);
