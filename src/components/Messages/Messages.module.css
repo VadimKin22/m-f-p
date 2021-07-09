@@ -1,0 +1,12 @@
+.all {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+ .buddysWindow {
+    text-align: center;
+    margin-top: 5px;
+}
+.dialogsWindow {
+    text-align: center;
+    margin-top: 5px;
+} 

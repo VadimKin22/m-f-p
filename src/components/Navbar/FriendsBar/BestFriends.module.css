@@ -1,0 +1,13 @@
+.bestfriends {
+    display: inline-grid;
+    margin-bottom: 10px;
+    justify-items: center;
+    align-items: center;
+    margin: auto;
+    }
+
+.bestfriends img {
+    width: 50px;
+    border-radius: 25px;
+    margin:auto;
+}

@@ -1,0 +1,23 @@
+
+  .tittleimg img {
+    width: 100%;
+    height: 100px;
+  }
+  .postsChild {
+    display: table;
+        margin-top: 10px;
+   }
+  
+  .postsChild img {
+    border-radius: 25px;
+  }
+  .postsChild p {
+    padding-left: 10px;
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .avaAnonim{
+    width: 10%;
+    height: 10%;
+  }
+  

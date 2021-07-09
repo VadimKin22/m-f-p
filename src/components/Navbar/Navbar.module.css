@@ -1,0 +1,41 @@
+.nav {
+  grid-area: n;
+  background: rgb(214, 214, 214);
+  }
+  .navbutton {
+    display: block;
+    width: 240px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+    background: rgb(214, 214, 214);
+    font-family: apple-system;
+    box-shadow: -7px -7px 20px 0 rgba(255, 255, 255, 0.9),
+    7px 7px 20px 0 rgba(0, 0, 0, 0.3);
+    transition: 0.2s;
+    
+     }
+     .navbutton a{
+      display: block;
+      width: 240px;
+      text-decoration: none;
+      color: black;
+      
+     }
+  .navbutton:hover {
+    transform: scale(1.1);
+    }   
+    .navbutton:before {
+      background: rgb(214, 214, 214);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+       }
+    .nav .navbutton .active {
+      font-weight: bold;
+    }
+    .bestfriendsbar {
+        display: grid;
+        justify-items: center;
+        align-items: center;
+      }
