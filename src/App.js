@@ -16,7 +16,7 @@ const News = React.lazy(() => import("./components/News/News")); //  а толь
 const UsersContainer = React.lazy(() => import("./components/Users/UsersContainer")); // компоненты для lazy загрузки выделяются <Suspense/>
 
 
-//asdf
+//2141234
 class App extends React.Component {
   constructor(props) { 
     super(props);
