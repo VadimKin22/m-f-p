@@ -5,7 +5,7 @@ class Header extends React.Component {
   constructor(props) {
     super(props);
   }
-//version1
+//version1.0
   render() {
 
     return <header className={hcss.header}>
