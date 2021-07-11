@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/News/News.module.css"],"names":[],"mappings":"AACE,8BACE,aAAc,CAAE,aAClB","file":"4.9fdc345d.chunk.css","sourcesContent":["\r\n  .news_wrapper img {\r\n    display: block; margin: 0 auto;\r\n  }"]}

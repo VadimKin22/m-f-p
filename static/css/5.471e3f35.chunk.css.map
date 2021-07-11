@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Users/Users.module.css"],"names":[],"mappings":"AAAA,4BACI,UACJ,CACA,yBACI,eACJ","file":"5.471e3f35.chunk.css","sourcesContent":[".userAnanimAva {\r\n    width: 50px;\r\n}\r\n.changePage {\r\n    font-weight: bold;\r\n}\r\n  "]}
